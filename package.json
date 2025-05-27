@@ -1,0 +1,28 @@
+{
+  "name": "coding-interview",
+  "version": "1.0.0",
+  "description": "repository for preparing coding interview",
+  "homepage": "https://github.com/KSJ27/coding-interview#readme",
+
+  "bugs": {
+    "url": "https://github.com/KSJ27/coding-interview/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSJ27/coding-interview.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node",
+    "run": "ts-node"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
