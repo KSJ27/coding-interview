@@ -24,3 +24,6 @@ Thumbs.db
 
 # VSCode settings (optional)
 .vscode/
+
+# BOJ input file
+/dev
